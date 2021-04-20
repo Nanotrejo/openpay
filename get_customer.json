@@ -1,14 +1,14 @@
 {
-  id: 'aag9tucplikgi1hmx8nq',
-  name: 'Juan Perez Ramirez',
-  last_name: null,
-  email: 'example@test.com',
-  phone_number: null,
-  address: null,
-  creation_date: '2021-04-20T03:14:33-05:00',
-  external_id: null,
-  clabe: null,
-  store: {
-    reference: 'OPENPAY02DGXEIEY8',
-    barcode_url: 'https://sandbox-api.openpay.mx/barcode/OPENPAY02DGXEIEY8?width=1&height=45&text=false'
+  'id': 'aag9tucplikgi1hmx8nq',
+  'name': 'Juan Perez Ramirez',
+  'last_name': null,
+  'email': 'example@test.com',
+  'phone_number': null,
+  'address': null,
+  'creation_date': '2021-04-20T03:14:33-05:00',
+  'external_id': null,
+  'clabe': null,
+  'store': {
+    'reference': 'OPENPAY02DGXEIEY8',
+    'barcode_url': 'https://sandbox-api.openpay.mx/barcode/OPENPAY02DGXEIEY8?width=1&height=45&text=false'
   }
